@@ -1,4 +1,8 @@
-Task 1:
+Task_1:
 After using script command 7 other commands were exectuted after that and that were recorded in typescript file which contains log of those 7 commands
 using cat command contain of the file is being displayed.
-Task 2:
+Task_2:
+using sudo su command we switch to root then used apt install command to install tree command
+Task_3:
+log script is being started using script command,file is being created then tree command output is being saved in file labtask03 using tree >> labtask03.txt command
+then script was ended
