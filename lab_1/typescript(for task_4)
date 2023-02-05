@@ -1,0 +1,42 @@
+Script started on 2023-02-05 09:07:20-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="166" LINES="34"]
+                                                                                                                                                                      ]0;kali@kali: ~[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4m[37ma[24m[39m[4m[37ma[24m[39m[38;2;153;153;153mpt -y install Seclists[39m[22D[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [23D[4m[37ms[24m[39m[4m[37ms[24m[39m[38;2;153;153;153mudo su[39m[24m[36ms[36mu[39m[4m[37ms[4m[37mu[4m[37md[24m[39m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[39m [36ms[36mu[39m[?1l>[?2004l
+[sudo] password for kali: 
+                                                                                                                                                                      ]0;root@kali: /home/kali[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/kali[0m[34m]
+└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4m[37ma[24m[39m[4m[37ma[24m[39m[38;2;153;153;153mdduser zain[39m[11D[4m[37ma[4m[37md[24m[39m[4m[37ma[4m[37md[4m[37md[24m[39m[4m[37md[4m[37mu[24m[39m[4m[37mu[4m[37ms[24m[39m[4m[37ms[4m[37me[24m[39m[24m[36ma[24m[36md[24m[36md[24m[36mu[24m[36ms[24m[36me[36mr[39m[39m [39mz[39ma[39mi[39mn[?1l>[?2004l
+adduser: The user `zain' already exists.
+                                                                                                                                                                      ]0;root@kali: /home/kali
+[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/kali[0m[34m]
+└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4m[37ms[24m[39m[24m[36ms[36mu[39m zain[?1l>[?2004l
+[?2004h]0;zain@kali: /home/kali[;32m┌──([1;34mzain㉿kali[;32m)-[[0;1m/home/kali[;32m]
+[;32m└─[1;34m$[0m who ami[K[K[K[Kami
+[?2004lzain
+
+[?2004h]0;zain@kali: /home/kali[;32m┌──([1;34mzain㉿kali[;32m)-[[0;1m/home/kali[;32m]
+[;32m└─[1;34m$[0m EXIT
+[?2004lEXIT: command not found
+
+[?2004h]0;zain@kali: /home/kali[;32m┌──([1;34mzain㉿kali[;32m)-[[0;1m/home/kali[;32m]
+[;32m└─[1;34m$[0m exit
+[?2004lexit
+                                                                                                                                                                      ]0;root@kali: /home/kali
+[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/kali[0m[34m]
+└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4m[37ma[24m[39m[4m[37ma[24m[39m[38;2;153;153;153mdduser zain[39m[11D[4m[37ma[4m[37md[24m[39m[4m[37ma[4m[37md[4m[37md[24m[39m[4m[37md[4m[37mu[24m[39m[4m[37mu[4m[37ms[24m[39m[4m[37ms[4m[37me[24m[39m[24m[36ma[24m[36md[24m[36md[24m[36mu[24m[36ms[24m[36me[36mr[39m[39m [39ma[39m [39m [39m li[?1l>[?2004l
+Adding user `ali' ...
+Adding new group `ali' (1003) ...
+Adding new user `ali' (1003) with group `ali' ...
+Creating home directory `/home/ali' ...
+Copying files from `/etc/skel' ...
+New password: 
+Retype new password: 
+passwd: password updated successfully
+Changing the user information for ali
+Enter the new value, or press ENTER for the default
+	Full Name []: 
+	Room Number []: 
+	Work Phone []: 
+	Home Phone []: 
+	Other []: 
+Is the information correct? [Y/n] y
+                                                                                                                                                                      ]0;root@kali: /home/kali
+[0m[27m[24m[J[34m�
