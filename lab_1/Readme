@@ -6,3 +6,11 @@ using sudo su command we switch to root then used apt install command to install
 Task_3:
 log script is being started using script command,file is being created then tree command output is being saved in file labtask03 using tree >> labtask03.txt command
 then script was ended
+Task_4:
+we created new users using adduser command and then logged into the user by su command
+Task_5:
+we cannot edit the password of another user when log in to someone other than root
+Task_6:
+used vim command to make a new file then used cp command to copy it
+
+
