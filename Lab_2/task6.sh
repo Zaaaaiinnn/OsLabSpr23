@@ -9,6 +9,6 @@ for i in $(seq $(($1-2)));
 do
 	T=$(($a + $b))
 	a=$b
-	b=$sum
-	echo "$sum "
+	b=$T
+	echo "$T "
 done
